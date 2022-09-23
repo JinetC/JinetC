@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+- 🔭 I’m currently seeking on good job for my career life growth
+- 🌱 I’m currently learning in at Open University of Sri Lanka
+- 📫 How to reach me: You can reach me on ...
+      # jinethc808@yahoo.com
+      # https://www.linkedin.com/in/jineth-c-hettiarachchi/
+      # Mobile: 0774383665
 <!--
 **JinetC/JinetC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
