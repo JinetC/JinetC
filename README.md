@@ -1,5 +1,5 @@
 [![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
-<h1 align="center">Hi <img width="10" src="file:///D:/OPEN%20UNIVERSITY/BSE/EEY%206189%20Research%20Methodology%20and%20Project%20Identification/Video/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035.gif"> I'm Jinth Hettiarachchi</h1>
+<h1 align="center">Hi <img lign="center" alt="Coding" width="10" src="https://i.pinimg.com/originals/03/68/c2/0368c21a37cce3e3628ff8eeccc4e2a4.gif"> I'm Jinth Hettiarachchi</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
