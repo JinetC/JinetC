@@ -11,13 +11,11 @@
 
 - 🌱 I’m currently learning **ReactJS, AI, ML**
 
-- 👯 I’m looking to collaborate on **Blood Donation**
-
-- 💬 Ask me about **Java, Python**
+- 💬 Ask me about **Java, Python, NLP**
 
 - 📫 How to reach me **jinethc808@yahoo.com**
 
-- ⚡ Fun fact **My Eyes ...**
+- ⚡ Fun fact **Thinking simple things seriously ... Serious things taking simply... **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
