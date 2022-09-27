@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **jinethc808@yahoo.com**
 
+- 👨‍💻 This will take you to my Portfolio **https://jinetc.github.io/**
+
 - ⚡ Fun fact **Thinking simple things seriously ... Serious things taking simply... **
 
 <h3 align="left">Connect with me:</h3>
